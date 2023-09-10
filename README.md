@@ -13,8 +13,7 @@
 
 
 ## 🤝 Connect With Me
-[![YouTube](https://img.shields.io/badge/YouTube-%231DA1F2.svg?logo=YouTube&logoColor=white)]()
-[](https://img.shields.io/badge/https%3A%2F%2Fpub.dev%2Fstatic%2Fhash-v7cgjij4%2Fimg%2Fpub-dev-logo.svg) 
+[![YouTube](https://img.shields.io/badge/YouTube-%231DA1F2.svg?logo=YouTube&logoColor=white)]() 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
 [![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?logo=Instagram&logoColor=white)]() 
 [![Snapchat](https://img.shields.io/badge/Snapchat-%230077B5.svg?logo=Snapchat&logoColor=white)]() 
