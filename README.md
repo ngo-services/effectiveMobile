@@ -1,6 +1,6 @@
 # effectivemobile
 
-# Hi 👋, I'm Sardar Elyas I'm Full Stack Developer 
+# Hi 👋, I'm Sardar Elyas Full Stack Developer 
 -  The backend working of service food ngo !
 
 # About API & Req 🚀
