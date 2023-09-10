@@ -47,7 +47,7 @@ class _ChoiceNumberState extends State<ChoiceNumber> {
             const SizedBox(height: 8),
             Container(
               width: 375,
-              height: 539,
+              height: 560,
               decoration: BoxDecoration(
                 color: Colors.white,
                 borderRadius: BorderRadius.circular(15),

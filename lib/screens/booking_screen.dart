@@ -110,7 +110,7 @@ class _BookingScreenState extends State<BookingScreen> {
                           borderRadius: BorderRadius.circular(15),
                           child: Container(
                             height: 29,
-                            width: 149,
+                            width: 155,
                             padding: const EdgeInsets.symmetric(horizontal: 5),
                             decoration: BoxDecoration(
                                 color: const Color(0xFFC70033).withOpacity(.20),
