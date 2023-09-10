@@ -1,7 +1,7 @@
 # effectivemobile
 
 # Hi 👋, I'm Eng-Sardar Elyas Full Stack Developer (Master Softwear Engineer) 
--  The backend working of service food ngo !
+-  All codes contain license !
 
 # About API & Req 🚀
 - 🔭 Using package retrofit to get the data
